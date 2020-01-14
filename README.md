@@ -1,6 +1,8 @@
 Usage:
-  -i    :   input file
-  -o    :   output file
+
+        -i    :   input file
+    
+        -o    :   output file
 
 Todo:
 	JSON requests
